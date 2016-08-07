@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunshine Wearable</string>
+    <string name="sunshine_label">Sunshine</string>
+    <string name="open_app">Please open the phone app</string>
+</resources>
